@@ -16,3 +16,5 @@ git merge origin/dev 将分支dev与当前分支进行合并
 git commit -a 提交当前repos的所有的改变  
 git add [file name] 添加一个文件到git index  
 git commit -v 当你用－v参数的时候可以看commit的差异  
+git pull 本地与服务器端同步
+git rm 文件名(包括路径) 从git中删除指定文件
